@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "男歌",
+  "base_artist": "LGYankees",
+  "createdAt": "2026-02-14T15:08:40.481462Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "亜麻色の髪の乙女 (男歌 version)",
+      "artist": "島谷ひとみ",
+      "has_synced": true,
+      "path": "select/01_亜麻色の髪の乙女_(男歌_version)_島谷ひとみ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "男歌",
+      "artist": "LGYankees",
+      "has_synced": false,
+      "path": "select/pl_01_男歌_LGYankees.txt"
+    }
+  ]
+}
